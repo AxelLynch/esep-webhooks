@@ -1,0 +1,17 @@
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.deps.json
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.runtimeconfig.json
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.dll
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.pdb
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+E:\Repos\esep-webhooks\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
